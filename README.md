@@ -91,7 +91,7 @@ cd frontend
 # Serve the frontend (choose one method)
 
 # Option 1: Using Python
-python -m http.server 3000
+python -m http.server 3000 --bind 127.0.0.1
 
 # Option 2: Using Node.js
 npx serve . -p 3000
@@ -100,7 +100,7 @@ npx serve . -p 3000
 # Right-click on index.html and select "Open with Live Server"
 ```
 
-The frontend will be available at `http://localhost:3000`
+The frontend will be available at `http://127.0.0.1:3000/`
 
 ## 📁 Project Structure
 
