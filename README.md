@@ -90,14 +90,15 @@ cd frontend
 
 # Serve the frontend (choose one method)
 
-# Option 1: Using Python
-python -m http.server 3000 --bind 127.0.0.1
+# Option 1: Using VS Code Live Server extension
+# Right-click on index.html and select "Open with Live Server"
+
 
 # Option 2: Using Node.js
 npx serve . -p 3000
 
-# Option 3: Using VS Code Live Server extension
-# Right-click on index.html and select "Open with Live Server"
+# Option 3: Using Python
+python -m http.server 3000 --bind 127.0.0.1
 ```
 
 The frontend will be available at `http://127.0.0.1:3000/`
