@@ -184,7 +184,7 @@ expense-tracker-app/
 
 ## 👨‍💻 Author
 
-**Foyez Nishan**
+**Foyez Ullah Nishan**
 - GitHub: [@foyezullahnishan](https://github.com/foyezullahnishan)
 - Project Repository: [Expense-Tracker](https://github.com/foyezullahnishan/Expense-Tracker)
 - Email: foyez.nishan@gmail.com
