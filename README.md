@@ -78,7 +78,7 @@ cd backend
 npm install
 
 # Start the backend server
-npm run dev
+node app.js
 ```
 
 The backend will run on `http://localhost:8000`
