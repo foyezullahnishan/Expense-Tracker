@@ -78,7 +78,7 @@ cd backend
 npm install
 
 # Start the backend server
-npm run dev
+node app.js
 ```
 
 The backend will run on `http://localhost:8000`
@@ -184,7 +184,7 @@ expense-tracker-app/
 
 ## 👨‍💻 Author
 
-**Foyez Nishan**
+**Foyez Ullah Nishan**
 - GitHub: [@foyezullahnishan](https://github.com/foyezullahnishan)
 - Project Repository: [Expense-Tracker](https://github.com/foyezullahnishan/Expense-Tracker)
 - Email: foyez.nishan@gmail.com
